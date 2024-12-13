@@ -1,0 +1,5 @@
+Les definitions des tables de la base de données "insurance" sont dans "insurance.sql" in src.main.resources.packagee.insurance.sql
+Le fichier de format csv est nommé "csv" et est aussi dans src.main.resources.packagee.csv
+Les parametres de connexion a la db sont a fournir dans src.main.java.packagee.DatabaseConnection
+A executer :  le "src.main.java.packagee.Hello"
+Bonne Journée.
